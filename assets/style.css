@@ -1,0 +1,28 @@
+
+* {
+    font-family: monospace;
+}
+
+body {
+    background: linear-gradient(to bottom, #87CEEB, #000000);
+    margin: 0; 
+    height: 100vh; 
+    color: #ffffff;
+    justify-content: center;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+}
+
+.instrucoes {
+    margin-top: 250px;
+    font-size: 23px;
+}
+
+footer {
+    margin-top: 350px;
+}
+
+
